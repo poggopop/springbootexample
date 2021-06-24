@@ -16,4 +16,4 @@ phases:
  
 artifacts:
   files:
-  - demo-0.0.1-SNAPSHOT.jar
+  - target/demo-0.0.1-SNAPSHOT.jar
